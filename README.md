@@ -74,7 +74,8 @@ Ensure your FactSage output files:
 * Correspond to the temperatures listed
 * Contain species data in a consistent format
 * Are accessible to the script
-
+change directory if needed, 1. cd " new directory"
+  2. python factsage_parserop.py sample.txt
 ---
 
 ## Installation
